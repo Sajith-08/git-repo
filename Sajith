@@ -1,0 +1,96 @@
+"""
+Author : GOVIND
+Date   : 05-12-2024
+"""
+"""
+simple english + basic maths
+
+high level         - human readable code to byte code 
+interpreted        - executes the code line by line
+dynamically typed  - no need of type declaration
+
+oop
+object oriented programming
+
+PVM - 
+__pycache__ -> .pyc
+demo.py -> __pycache__/demo.pyc
+
+var name str 
+const name int 
+
+key features:
+
+easy to read easy to learn
+open source
+                flask django fastapi
+versatality - web applications ML AI scripting 
+portability  -
+large ecosystem -  
+
+
+
+
+amazon -   internet 
+flipkart - 
+
+msword -  without internet
+notepad ++
+calculator 
+
+pip install  
+conda install 
+
+
+disadvantages:
+
+
+
+->
+
+procedural -> input()
+
+
+functional  -> def func():
+
+
+oop         -> class ClassName():
+
+
+"""
+# name = "ramesh"
+# # print(name)
+# print(type(name))
+# age = 30
+# # print(age)
+# print(type(age))
+# sal = 2500.25
+# # print(sal)
+# print(type(sal))
+#
+# age = 17
+#
+# if age >= 18:
+#     print("major")
+#     print("hello")
+#
+# import math
+# print()
+
+# name = "Ramesh" # static
+# # print(name)
+# age = 25
+# salary = 2500.56
+
+# "int() float()"
+# name = input("enter name: ")
+# age = int(input("enter age: "))
+# salary = float(input("enter salary: "))
+
+# print(name)
+# print(age)
+# print(salary * 5)
+
+# print(type(name))
+# print(type(age))
+# print(type(salary))
